@@ -1,0 +1,246 @@
+BEGIN:VCALENDAR
+PRODID:ics.py - http://git.io/lLljaA
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20200119T013000Z
+DTSTART:20200415T170000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2020-04-15@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200119T013000Z
+DTSTART:20200513T160000Z
+SUMMARY:(Plzeňské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:plzen-pyvo-2020-05-13@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200119T013000Z
+DTSTART:20200227T180000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2020-02-27@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200119T013000Z
+DTSTART:20200429T170000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2020-04-29@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200119T013000Z
+DTSTART:20200625T170000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2020-06-25@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200119T013000Z
+DTSTART:20200401T170000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2020-04-01@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200119T013000Z
+DTSTART:20200326T180000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2020-03-26@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200119T013000Z
+DTSTART:20200219T180000Z
+SUMMARY:Pražské Pyvo #107
+DESCRIPTION:Únorové Pyvo nepochybně bude. Program se snad ještě upřesní.\n
+LOCATION:Na Věnečku\, Ostrovského 38a\, Praha 5\, Czech Republic\, 15000\, Praha
+URL:https://pyvo.cz/praha-pyvo/2020-02/
+TRANSP:OPAQUE
+UID:praha-pyvo-2020-02-19@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200119T013000Z
+DTSTART:20200617T170000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2020-06-17@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200119T013000Z
+DTSTART:20200701T170000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2020-07-01@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200119T013000Z
+DTSTART:20200130T180000Z
+SUMMARY:Brněnské Pyvo – Droní
+DESCRIPTION:Na prvním Pyvu v roce 2020 se budeme věnovat programování dronů. Sejdeme se opět v klubovně ArtBaru :) \n\n---\n\nAt the first Pyvo in 2020 we will focus on the drone programming. We will meet again in Artbar's lounge room :) \n
+LOCATION:ArtBar Druhý Pád\, Štefánikova 836/1\, Brno
+URL:https://pyvo.cz/brno-pyvo/2020-01/
+TRANSP:OPAQUE
+UID:brno-pyvo-2020-01-30@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200119T013000Z
+DTSTART:20200205T180000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2020-02-05@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200119T013000Z
+DTSTART:20200318T180000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2020-03-18@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200119T013000Z
+DTSTART:20200603T170000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2020-06-03@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200119T013000Z
+DTSTART:20200226T180000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2020-02-26@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200119T013000Z
+DTSTART:20200528T170000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2020-05-28@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200119T013000Z
+DTSTART:20200304T180000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2020-03-04@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200119T013000Z
+DTSTART:20200430T170000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2020-04-30@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200119T013000Z
+DTSTART:20200624T170000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2020-06-24@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200119T013000Z
+DTSTART:20200325T180000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2020-03-25@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200119T013000Z
+DTSTART:20200520T170000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2020-05-20@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200119T013000Z
+DTSTART:20200311T170000Z
+SUMMARY:(Plzeňské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:plzen-pyvo-2020-03-11@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+STATUS:CONFIRMED
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:50.08;14.43
+CREATED:20200107T095927Z
+LAST-MODIFIED:20200107T095927Z
+SEQUENCE:1
+DTSTAMP:20200119T013000Z
+DTSTART:20200120T170000Z
+DTEND:20200120T190000Z
+SUMMARY:PyWorking session #94
+DESCRIPTION:*** Basic EN info: *** We are mostly practical meetup so bring your own laptop.This Python programming session is for girls and boys who are learning Python and already have some basic knowledge (variables\, cycles\, functions\, classes\, lists\, dicts). Questions? You can contact us on info@pyworking.cz *** CZ info: *** Scházíme se ve 14 denních intervalech. Potvrzení účasti na události (RSVP) je nutné a závazné! Notebook s sebou nutností! Studijní skupina pro další začátečníky/ lehce pokročilé v Pythonu (proměnné\, cykly\, funkce\, třídy\, seznamy\, slovníky)\, kteří na meetupech najdou podporu a pomoc s řešením otázek ke svým projektům\, mohou zde sdílet výsledky své práce\, nebo požádat o code review. Můžete si také přijít nechat poradit\, pokud s výběrem vlastního projektu váháte. V této skupině neprobíhá ucelená výuka\; pokud se zajímáte o kurzy Pythonu pro začátečníky\, sledujte skupinu PyLadies Praha https://www.facebook.com/groups/pyladiespraha nebo se podívej na https://naucse.python.cz/course/pyladies/ \, kde se lze základy naučit podle materiálů v češtině. Těšíme se na vás!
+LOCATION:Akamai (Karla Engliše 3219/4\, Prague\, Czech Republic)
+URL:https://www.meetup.com/pyworking/events/267714090/
+TRANSP:OPAQUE
+UID:event_267714090@meetup.com
+CATEGORIES:Web Technology,Women in Technology,Computer programming,Technology Professionals,Python,Open Source
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200119T013000Z
+DTSTART:20200506T170000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2020-05-06@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+STATUS:CONFIRMED
+ORGANIZER;CN=Meetup Reminder:MAILTO:info@meetup.com
+CLASS:PUBLIC
+GEO:50.08;14.43
+CREATED:20200116T081921Z
+LAST-MODIFIED:20200117T093632Z
+SEQUENCE:4
+DTSTAMP:20200119T013000Z
+DTSTART:20200203T170000Z
+DTEND:20200203T200000Z
+SUMMARY:PyData Prague #6 - Extended Automation
+DESCRIPTION:The 6th\, already quite regular\, Prague PyData meetup will take place at Creative Dock. As usual\, the talks will start at 18:30 but we encourage you to come as soon as 18:00 to enjoy the opportunity to socialize and refresh yourselves (which you can continue doing during the break and after the talks). Our main goal is to build the community around Python and data and make it welcoming to people of various skills and experience levels. ⚡ If you are interested in giving a lightning talk (up to 5 minutes to present an idea\, tool or results related at least to some degree to Python and/or data)\, please contact us before the event or at its beginning. 📢 Talk 1: Adam Hanka (Creative Dock): Automation in InsurTech and Banking 📢Automation and artificial intelligence can bring improvements in customer experience\, shorten application time and simplify the underwriting process\, reduce costs and replace some tedious and repetitive human labor such as damage inspection or claim processing. How does it work in the world of finance\, especially insurance and banking\, both examples of the most traditional industries\, posing strong resistance towards changes?Possible future development in the industry will be demonstrated on two recent data science and machine learning projects:* Recognition and evaluation of car damages.* Scoring process based on structured information from social media. 📢 Talk 2: Jan Pipek (DTOne): A practical guide to designing implants for pandas 📢The pandas library offers three approaches to user customization – class inheritance\, series/data frame accessors\, and extension arrays/dtypes. The talk introduces all of them shortly with real-world examples and code\, while focusing on a complete implementation of physical-unit-aware data column example.Note: This is an updated version of the talk from PyCon CZ 2019. Please **RSVP** here and **unregister** if you know you are not able to come.. If you have any questions regarding the venue\, our topics\, timing\, or anything else\, don't hesitate to send us a message.
+LOCATION:CreativeDock (vstup z ulice Štefánikova 43a\, budova D\, Praha-Praha 5\, Czech Republic 150 00)
+URL:https://www.meetup.com/PyData-Prague/events/267957841/
+TRANSP:OPAQUE
+UID:event_267957841@meetup.com
+CATEGORIES:Predictive Analytics,Computer programming,Technology,New Technology,Open Source,Business Intelligence,Community Building,Software Development,Big Data,Data Analytics,Data Visualization,Machine Learning
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200119T013000Z
+DTSTART:20200129T180000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2020-01-29@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200119T013000Z
+DTSTART:20200527T170000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2020-05-27@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+END:VCALENDAR
